@@ -2,7 +2,7 @@
 
 Este script foi criado para processar arquivos PDF gerados pela XP e extrair dados relevantes.
 
-## Pré-requisitos
+## Pré-requisitos 
 
 1. **Python 3.x** instalado em seu sistema.
 2. **Bibliotecas Python necessárias:** Certifique-se de que as bibliotecas necessárias estejam instaladas. Você pode instalar as dependências executando:
